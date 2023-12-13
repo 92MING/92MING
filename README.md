@@ -5,4 +5,5 @@ _____________________________________________________________________________
 - [X] ***Python/C++/C#/TypeScript/GO***
 - [X] ***Unity/PYQT/OpenGL***
 _____________________________________________________________________________
-#### Go my profile site: -> https://92ming.github.io/92MING/
+### www.legalexpression.com
+### ThinkThinkSyn Ltd.
