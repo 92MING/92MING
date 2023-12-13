@@ -1,5 +1,5 @@
 ### 92MING 
-`CUHK / COMPUTER GRAPHIC & AI`
+`CUHK / COMPUTER GRAPHIC / AI`
 _____________________________________________________________________________
 ![](/resources/frog.gif) 
 - [X] ***Python/C++/C#/TypeScript/GO***
