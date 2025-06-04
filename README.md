@@ -1,9 +1,16 @@
 ### 92MING 
 `CUHK / COMPUTER GRAPHIC / AI`
+
+python / taichi / c# / c++
 _____________________________________________________________________________
 ![](/resources/frog.gif) 
-- [X] ***Python/C++/C#/TypeScript/GO***
-- [X] ***Unity/PYQT/OpenGL***
 _____________________________________________________________________________
-### www.legalexpression.com
-### ThinkThinkSyn Ltd.
+
+contact@thinkthinksyn.com
+
+### Local startup need some job.
+- www.thinkthinksyn.com
+- www.legalexpression.com
+- www.kongpaper.com
+- www.aiwife.io
+
